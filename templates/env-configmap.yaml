@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  MYSQL_ROOT_PASSWORD: 53cr3t!
+  TOMCAT_MAJOR_VERSION: "9"
+  TOMCAT_VERSION: 9.0.58
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: app-env
+  name: env

@@ -1,1 +1,1 @@
-# helm-sailpoint
+This chart was created by Kompose

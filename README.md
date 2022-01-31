@@ -1,1 +1,2 @@
-This chart was created by Kompose
+
+helm install --set name=prod sailpoint ./helm-sailpoint

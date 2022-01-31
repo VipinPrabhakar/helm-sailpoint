@@ -1,3 +1,3 @@
 
 ```
-helm install --set name=prod sailpoint ./helm-sailpoint
+helm install --set name=sailpoint sailpoint ./helm-sailpoint
